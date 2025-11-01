@@ -26,7 +26,7 @@ A comprehensive distributed system demonstrating advanced backend patterns:
 * **Asynchrony:** Uses **RabbitMQ** for non-blocking communication between the activity logging service and the AI analysis service.
 * **Security:** Implements full **OAuth 2.0/JWT** security via **Keycloak** and a custom authentication filter.
 * **Polyglot:** Integrates **PostgreSQL** (for relational user data) and **MongoDB** (for flexible activity data).
-* **[Link to your Fitness Tracker Repo]**
+* **[(https://github.com/AnishPal006/Fitness-microservice-app)]**
 
 ### 2. MacroMind: AI-Powered Nutrition Tracker (Full Stack Mobile)
 
@@ -34,7 +34,7 @@ A modern mobile application designed to simplify food logging with AI:
 * **Mobile Stack:** Built end-to-end using **React Native/Expo** for iOS/Android compatibility.
 * **AI Feature:** Implements **Gemini API** integration to analyze uploaded food images and return instant, detailed nutritional data.
 * **Backend:** Leverages **Node.js (Express.js)** and **PostgreSQL** to manage user profiles, food inventory, and daily log tracking.
-* **[Link to your MacroMind Repo]**
+* **[(https://github.com/AnishPal006/MacroMind)]**
 
 ---
 
