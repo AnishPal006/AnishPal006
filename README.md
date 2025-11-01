@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello! I'm Anish Pal
 
-<!--
-**AnishPal006/AnishPal006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Engineer | Java Microservices & AI Integration Specialist
 
-Here are some ideas to get you started:
+A highly driven Computer Science student with a passion for architecting **scalable backend systems** and developing dynamic, user-focused applications. My expertise spans the complete stack, from cloud-native Java services to modern mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Technical Expertise
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend & Cloud** | Java, Spring Boot, Spring Cloud, Node.js (Express.js), Microservices, RESTful APIs, RabbitMQ |
+| **Frontend & Mobile** | React Native/Expo, React, JavaScript, HTML, CSS |
+| **Databases** | PostgreSQL, MongoDB, MySQL, JPA/Hibernate |
+| **Tools & DevSecOps** | Docker, Keycloak (OAuth2/JWT), Gemini API, Maven, JUnit |
+
+---
+
+## 💡 Featured Projects
+
+### 1. Fitness Tracker Microservice (Java, Spring Cloud, Polyglot Persistence)
+
+A comprehensive distributed system demonstrating advanced backend patterns:
+* **Architecture:** 5+ services orchestrated with **Spring Cloud Gateway** and **Eureka**.
+* **Asynchrony:** Uses **RabbitMQ** for non-blocking communication between the activity logging service and the AI analysis service.
+* **Security:** Implements full **OAuth 2.0/JWT** security via **Keycloak** and a custom authentication filter.
+* **Polyglot:** Integrates **PostgreSQL** (for relational user data) and **MongoDB** (for flexible activity data).
+* **[Link to your Fitness Tracker Repo]**
+
+### 2. MacroMind: AI-Powered Nutrition Tracker (Full Stack Mobile)
+
+A modern mobile application designed to simplify food logging with AI:
+* **Mobile Stack:** Built end-to-end using **React Native/Expo** for iOS/Android compatibility.
+* **AI Feature:** Implements **Gemini API** integration to analyze uploaded food images and return instant, detailed nutritional data.
+* **Backend:** Leverages **Node.js (Express.js)** and **PostgreSQL** to manage user profiles, food inventory, and daily log tracking.
+* **[Link to your MacroMind Repo]**
+
+---
+
+### 🌱 Currently Exploring
+* Focusing on advanced Data Structures and Algorithms (DSA) principles.
+* Deepening knowledge of event streaming with Kafka.
+
+📧 **Get in Touch:** [anishpaul865@gmail.com]
+
+🔗 **Connect with me:** [www.linkedin.com/in/anishpal006]
