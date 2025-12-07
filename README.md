@@ -42,6 +42,6 @@ A modern mobile application designed to simplify food logging with AI:
 * Focusing on advanced Data Structures and Algorithms (DSA) principles.
 * Deepening knowledge of event streaming with Kafka.
 
-📧 **Get in Touch:** [anishpaul865@gmail.com]
+📧 **Get in Touch:** anishpaul865@gmail.com
 
-🔗 **Connect with me:** [www.linkedin.com/in/anishpal006]
+🔗 **Connect with me:** www.linkedin.com/in/anishpal006
